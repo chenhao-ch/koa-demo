@@ -1,0 +1,13 @@
+.hidden {
+  display: none;
+}
+.head {
+  border-bottom: 1px solid #aaa;
+  height: 30px;
+}
+.login-view,
+.register-view,
+.list-view {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
